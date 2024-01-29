@@ -82,7 +82,6 @@ img {
 .header-menu {
     display: flex;
     gap: 40px;
-    padding: 26px;
 }
 
 .header-link-menu {
@@ -108,7 +107,6 @@ img {
 
 
 .header-address {
-    padding: 26px;
     font-style: normal;
     margin-left: auto;
 }
@@ -152,7 +150,7 @@ img {
     line-height: 1.07;
     letter-spacing: 0.02em;
     border: none;
-    padding-bottom: 48px;
+    margin: 0 auto 48px;
     max-width: 496px
 }
 
@@ -180,12 +178,6 @@ img {
     background-color: #404BBF;
 }
 /*--------section two------*/
-
-.container-strategy {
-    margin-top: 120px;
-    margin-bottom: 120px;
-}
-
 .strategy {
     background: #FFF;
     padding-top: 120px;
@@ -207,7 +199,6 @@ img {
 
 
 .main-strategy {
-    padding-top: 120px;
     display: flex;
     gap: 24px;
 
@@ -265,7 +256,6 @@ img {
 
 
 .team-main {
-    background-color: #FFFFFF;
     display: flex;
     flex-wrap: wrap;
     gap: 24px;
@@ -276,7 +266,6 @@ img {
 .team-main-list {
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
-    margin-bottom: 32px;
     width: calc((100% - 72px) / 4);
 }
 
@@ -296,7 +285,6 @@ img {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    margin-top: 32px;
     margin-bottom: 8px;
 }
 
@@ -309,7 +297,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     margin-top: 8px;
-    padding-bottom: 32px;
 }
 
 .list-end {
@@ -329,7 +316,6 @@ img {
     line-height: 1.1;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    padding-top: 120px;
     display: block;
     margin-bottom: 72px;
 
@@ -349,13 +335,12 @@ img {
 }
 
 .portfolio-main-list {
-    margin-bottom: 48px;
     width: calc((100% - 48px) / 3);
 
 }
 
 .portfolio-main-pic {
-    margin-bottom: 32px;
+
 }
 
 .portfolio-main-titel {
@@ -365,14 +350,6 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px
-}
-
-.portfolio-main-text {
-    color: #434455;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    padding-bottom: 32px;
 }
 
 .portfolio-main {}
@@ -423,7 +400,6 @@ img {
 
 .footer-logo {
     color: #F4F4FD;
-    margin-bottom: 16px;
 }
 
 
@@ -439,7 +415,6 @@ img {
     background: #2E2F42;
     padding-top: 100px;
     padding-bottom: 100px;
-    display: inline-block
 }
 
 .container-footer-logo {}
