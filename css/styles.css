@@ -383,6 +383,9 @@ img {
 
 /* ----------footer---------- */
 
+.footer-logo {
+    color: #fff;
+}
 .logo.logo-bottom {
     display: inline-block;
     margin-bottom: 16px;
